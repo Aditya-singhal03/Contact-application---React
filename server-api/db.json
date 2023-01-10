@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "03a9e64d-1546-489b-8329-7c5538241ad0",
+      "name": "Aditya SInghal",
+      "email": "singhalbspr@gmail.com"
+    },
+    {
+      "id": "a0b08b3b-4cc6-4c9e-9152-45614e7994ff",
+      "name": "nikku singhal",
+      "email": "singhalbspr4896@gmail.com"
+    },
+    {
+      "id": "0b31f44d-8372-4d96-854d-b165f9e29844",
+      "name": "Akshat Tripathi",
+      "email": "akshattripathi.19je0093@mech.iitism.ac.in"
+    },
+    {
+      "id": "a1112d0f-3f2f-4658-bfe9-4c5bb2233f8f",
+      "name": "Dipesh",
+      "email": "Dipesh@gmail.com"
+    }
+  ]
+}
